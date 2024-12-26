@@ -1,3 +1,3 @@
-# nitech_Digital
+# Nitech_Payments
 
-Essa API visa gerenciar os dados da Nitech para que seja possivel analises constistentes para tomada de decisão.
+Essa API visa gerenciar recursos de pagamentos e recebimentos Nitech Digital.
